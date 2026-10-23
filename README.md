@@ -13,6 +13,7 @@
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](../../pulls)
 
+
 > Detector CLI para la vulnerabilidad **PHP2Shell** (`CVE-2026-109618` / `CVE-2026-109619`) en instalaciones locales de PHP.
 
 PHP2Shell es el nombre que investigadores dieron a dos vulnerabilidades críticas de ejecución remota de código (RCE) **sin autenticación** en el intérprete PHP, divulgadas el **21 de octubre de 2026** con CVSS v4.0 **9.2 (Critical)**. Afecta a PHP desde la versión **5.4.0** en adelante y no tiene mitigación parcial: solo parche.
