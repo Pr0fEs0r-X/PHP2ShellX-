@@ -6,8 +6,6 @@
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
-[![CVE-2026-109618](https://img.shields.io/badge/CVE-2026--109618-Critical-red)](https://www.cve.org/)
-[![CVE-2026-109619](https://img.shields.io/badge/CVE-2026--109619-Critical-red)](https://www.cve.org/)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-lightgrey)]()
 [![Dependencies](https://img.shields.io/badge/Dependencies-colorama%20%26%20pyfiglet-yellow)](requirements.txt)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
