@@ -1,4 +1,4 @@
-# PHP2Shell Detector
+# PHP2ShellX Detector V 1.0 BETA
 
 [![Made by Pr@fEsOr X](https://img.shields.io/badge/Made%20by-Pr%40fEsOr%20X-blueviolet?style=for-the-badge)](https://github.com/Pr0fEsOr-X)
 [![PHP2Shell](https://img.shields.io/badge/PHP2Shell-Detector-red?style=for-the-badge)](https://en.wikipedia.org/wiki/PHP2Shell)
